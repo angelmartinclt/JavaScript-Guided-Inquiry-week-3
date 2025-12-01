@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(252, 226, 240);
+    text-align: center;
+    justify-content: center;
+}
+
+#title{
+    color: cadetblue;
+    font-size: 40px;
+}
+
+#resultOfExercise{
+    color: slategray;
+    font-size: 25px;
+}
