@@ -1,1 +1,1 @@
-For Guided Inquiry week 3 my goal was to write functions for 4 various problems. Through each folder I have labeled the challenges by difficulty so the user can easily sort and review each problem!
+For Guided Inquiry week 3 my goal was to write functions for 4 various problems. Through each folder I have labeled the challenges by difficulty so the user can easily sort and review each problem! Don't forget to copy the path, inspect the page and go to the console to very all of the output not shown on the pages.
