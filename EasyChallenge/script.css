@@ -20,3 +20,7 @@ body{
     border: 3px solid cadetblue;
     color: cadetblue;
 }
+
+#exerciseButton:hover{
+    cursor: pointer;
+}
